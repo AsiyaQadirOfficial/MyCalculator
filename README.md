@@ -1,5 +1,5 @@
 # MyCalculator
-Calculator in python 
+Calculator in python language
 
 
 
